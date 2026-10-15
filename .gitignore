@@ -221,3 +221,4 @@ __marimo__/
 
 # Project virtual environment
 ml_venv/
+.artifacts
