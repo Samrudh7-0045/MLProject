@@ -222,3 +222,6 @@ __marimo__/
 # Project virtual environment
 ml_venv/
 .artifacts
+
+#Project zip folder
+mlproject-main+(2)
